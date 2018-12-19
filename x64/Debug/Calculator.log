@@ -1,0 +1,8 @@
+﻿  Generate moc_predefs.h
+  Moc'ing dialog.h...
+  Uic'ing dialog.ui...
+  dialog.cpp
+  main.cpp
+  model.cpp
+  moc_dialog.cpp
+  Calculator.vcxproj -> E:\WorkSpace\Qt\Calculator\debug\Calculator.exe
